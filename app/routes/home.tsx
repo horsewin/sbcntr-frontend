@@ -88,7 +88,7 @@ function HeroSection({ message }: { message: string }) {
                 </h1>
 
                 <p className="text-lg text-gray-700 max-w-2xl mx-auto lg:mx-0">
-                  ショップへようこそ！
+                  ようこそ！
                 </p>
               </div>
 
